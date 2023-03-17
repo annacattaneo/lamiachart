@@ -1,4 +1,5 @@
-hello_column
-Hello
-World
-Raw!!!
+name_col,v1_col,v2_col,type,v3_col
+Hello,4,6,a,4
+World,6,1,b,2
+Raw!!!,1,4,a,10
+ciao,12,5,b,4
